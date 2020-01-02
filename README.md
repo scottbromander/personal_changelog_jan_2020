@@ -5,7 +5,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### Friday, Jan 1st
-- Blinked [The sense of style](https://www.blinkist.com/books/the-sense-of-style-en)
+- Blinked, [The sense of style](https://www.blinkist.com/books/the-sense-of-style-en)
 - 🖊Book Notes
 - ✝️ Devotional
 - 🍎Clean Eating!
