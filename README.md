@@ -13,7 +13,10 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### Friday, Jan 3rd
+- 📚Blinked, [The Science of Storytelling](https://www.blinkist.com/books/the-science-of-storytelling-en)
+- 📚Blinked, [Wired for Story](https://www.blinkist.com/books/wired-for-story-en)
 - 🖊Worked on book, Furious Growth
+- ✝️ Devotional
 - 🍎Clean Eating!
 
 #### Thursday, Jan 2nd
