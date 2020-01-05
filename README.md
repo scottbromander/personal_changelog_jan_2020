@@ -12,20 +12,27 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
-#### Friday, Jan 3rd
-- 📚Blinked, [The Science of Storytelling](https://www.blinkist.com/books/the-science-of-storytelling-en)
-- 📚Blinked, [Wired for Story](https://www.blinkist.com/books/wired-for-story-en)
-- 🖊Worked on book, Furious Growth
+#### Saturday, Jan 4th
+- 📚 Blinked, [Influence](https://www.blinkist.com/books/influence-en)
+- 🖊 Worked on book, Furious Growth
 - ✝️ Devotional
-- 🍎Clean Eating!
+- 🍎 Clean Eating!
+
+
+#### Friday, Jan 3rd
+- 📚 Blinked, [The Science of Storytelling](https://www.blinkist.com/books/the-science-of-storytelling-en)
+- 📚 Blinked, [Wired for Story](https://www.blinkist.com/books/wired-for-story-en)
+- 🖊 Worked on book, Furious Growth
+- ✝️ Devotional
+- 🍎 Clean Eating!
 
 #### Thursday, Jan 2nd
-- 📚Blinked, [What is the Bible](https://www.blinkist.com/books/what-is-the-bible-en)
+- 📚 Blinked, [What is the Bible](https://www.blinkist.com/books/what-is-the-bible-en)
 - ✝️ Devotional
-- 🍎Clean Eating!
+- 🍎 Clean Eating!
 
 #### Wednesday, Jan 1st
-- 📚Blinked, [The Sense of Style](https://www.blinkist.com/books/the-sense-of-style-en)
-- 🖊Book Notes
+- 📚 Blinked, [The Sense of Style](https://www.blinkist.com/books/the-sense-of-style-en)
+- 🖊 Book Notes
 - ✝️ Devotional
-- 🍎Clean Eating!
+- 🍎 Clean Eating!
