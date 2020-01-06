@@ -12,6 +12,12 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
+#### Sunday, Jan 5th
+- 📚 Blinked, [Outer Order, Inner Calm](https://www.blinkist.com/books/outer-order-inner-calm-en)
+- 🖊 Worked on book, Furious Growth
+- ✝️ Devotional
+- 🍎 Clean Eating!
+
 #### Saturday, Jan 4th
 - 📚 Blinked, [Influence](https://www.blinkist.com/books/influence-en)
 - 🖊 Worked on book, Furious Growth
