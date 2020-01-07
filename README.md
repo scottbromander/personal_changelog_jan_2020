@@ -12,6 +12,11 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
+#### Monday, Jan 5th
+- 📚 Blinked, [Captivology](https://www.blinkist.com/books/captivology-en)
+- ✝️ Devotional
+- 🍎 Clean Eating!
+
 #### Sunday, Jan 5th
 - 📚 Blinked, [Outer Order, Inner Calm](https://www.blinkist.com/books/outer-order-inner-calm-en)
 - 🖊 Worked on book, Furious Growth
