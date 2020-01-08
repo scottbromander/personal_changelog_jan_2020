@@ -13,6 +13,10 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### Monday, Jan 5th
+- ✝️ Devotional
+- 🍎 Clean Eating!
+
+#### Monday, Jan 5th
 - 📚 Blinked, [Captivology](https://www.blinkist.com/books/captivology-en)
 - ✝️ Devotional
 - 🍎 Clean Eating!
