@@ -12,16 +12,16 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
-#### Tuesday, Jan 5th
+#### Wednesday, Jan 8th
 - ✝️ Devotional
 - 🍎 Clean Eating!
 
-#### Monday, Jan 5th
+#### Tuesday, Jan 7th
 - 📚 Blinked, [The Name of God is Mercy](https://www.blinkist.com/books/the-name-of-god-is-mercy-en)
 - ✝️ Devotional
 - 🍎 Clean Eating!
 
-#### Monday, Jan 5th
+#### Monday, Jan 6th
 - 📚 Blinked, [Captivology](https://www.blinkist.com/books/captivology-en)
 - ✝️ Devotional
 - 🍎 Clean Eating!
