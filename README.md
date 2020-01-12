@@ -13,13 +13,17 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### Saturday, Jan 11th
+- 📚 Blinked, [Founded After 40](https://www.blinkist.com/books/founded-after-40-en)
+- ✝️ - Devotional
 - 💻- Worked on new Habit Project
+- 🏋️‍- Cardio / Stretch
 
 #### Friday, Jan 10th
 - 💻- Worked on new Habit Project
 - ✝️ Devotional
 
 #### Thursday, Jan 9th
+- 📚 Blinked, [What to Eat When](https://www.blinkist.com/books/what-to-eat-when-en)
 - ✝️ Devotional
 - 🍎 Clean Eating!
 
