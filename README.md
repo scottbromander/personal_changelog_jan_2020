@@ -12,6 +12,10 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
+#### Sunday, Jan 12th
+- ✝️ - Service
+- ✝️ - Devotional
+
 #### Saturday, Jan 11th
 - 📚 Blinked, [Founded After 40](https://www.blinkist.com/books/founded-after-40-en)
 - ✝️ - Devotional
