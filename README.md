@@ -15,6 +15,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 #### Monday, Jan 13th
 - 🖊- Working on new Medium Post
 - ✝️ - Devotional
+- 🏋️‍- Chest/Tri
 - 🍎 Clean Eating!
 
 #### Sunday, Jan 12th
