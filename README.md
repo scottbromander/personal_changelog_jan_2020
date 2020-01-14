@@ -12,6 +12,11 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
+#### Monday, Jan 13th
+- 🖊- Working on new Medium Post
+- ✝️ - Devotional
+- 🍎 Clean Eating!
+
 #### Sunday, Jan 12th
 - 📚 Blinked, [Make Change Work for You](https://www.blinkist.com/books/make-change-work-for-you-en)
 - ✝️ - Service
