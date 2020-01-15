@@ -12,6 +12,10 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
+#### Tuesday, Jan 14th
+- 🏋️‍- Stretching
+- 🍎 Clean Eating!
+
 #### Monday, Jan 13th
 - 🖊- Working on new Medium Post
 - ✝️ - Devotional
