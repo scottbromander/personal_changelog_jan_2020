@@ -12,7 +12,12 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
+#### Wednesday, Jan 14th
+- 📚 Blinked, [The 10x Rule](https://www.blinkist.com/books/the-10x-rule-en)
+
 #### Tuesday, Jan 14th
+- 📚 Blinked, [Reboot](https://www.blinkist.com/books/reboot-en)
+- ✝️ - Devotional
 - 💻- Worked on new Habit Project
 - 🏋️‍- Stretching
 - 🍎 Clean Eating!
