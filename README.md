@@ -13,6 +13,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### Thursday, Jan 16th
+- 📚 Reading, [Don't Give Up - Kyle Idleman](https://www.amazon.com/Dont-Give-Up-Confidence-Believing/dp/0801019427)
 - ✝️ - Devotional
 - 💻- Worked on new Habit Project
 - 🍎 Clean Eating!
