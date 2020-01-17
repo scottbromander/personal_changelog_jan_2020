@@ -12,6 +12,11 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
+#### Thursday, Jan 16th
+- ✝️ - Devotional
+- 💻- Worked on new Habit Project
+- 🍎 Clean Eating!
+
 #### Wednesday, Jan 15th
 - ✝️ - Devotional
 - 💻- Worked on new Habit Project
