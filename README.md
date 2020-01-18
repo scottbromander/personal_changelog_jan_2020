@@ -12,6 +12,11 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
+#### Friday, Jan 17th
+- ✝️ - Devotional
+- 💻- Creating learning content for MapBox and Open Cage API, integrated with React
+- 💻- Worked on new Habit Project
+
 #### Thursday, Jan 16th
 - 📚 Reading, [Don't Give Up - Kyle Idleman](https://www.amazon.com/Dont-Give-Up-Confidence-Believing/dp/0801019427)
 - ✝️ - Devotional
