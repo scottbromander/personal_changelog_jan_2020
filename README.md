@@ -12,6 +12,13 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
+#### Sunday, Jan 19th
+- ✝️ - Service
+- ✝️ - Devotional
+- 💻- Worked on new Habit Project
+- 🏋️‍- Abs / Barre Legs
+- 🍎 Clean Eating!
+
 #### Saturday, Jan 18th
 - ✝️ - Devotional
 - 💻- Creating learning content for MapBox and Open Cage API, integrated with React
