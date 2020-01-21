@@ -12,7 +12,12 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
-#### Monday, Jan 19th
+#### Tuesday, Jan 21th
+- ✝️ - Devotional
+- 💻- Worked on new Habit Project
+- 🏋️‍- Abs / Biceps / Stretch
+
+#### Monday, Jan 20th
 - ✝️ - Devotional
 - 💻- Worked on new Habit Project
 - 🏋️‍- Abs / Chest / Tris / Stretch
