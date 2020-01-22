@@ -13,6 +13,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### Tuesday, Jan 21th
+- 💻- Worked on new Habit Project
 - ✝️ - Devotional
 - 🏋️‍- Abs / Biceps / Stretch
 
