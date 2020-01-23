@@ -12,7 +12,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - 📚- Reading
 
 ---
-#### Tuesday, Jan 21th
+#### Wednesday, Jan 22th
 - 💻- Worked on new Habit Project
 - ✝️ - Devotional
 - 🏋️‍- Stretch
